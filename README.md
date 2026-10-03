@@ -1,4 +1,4 @@
-### Hi, I'm aaa 👋 | AI Agents & Research-Driven Systems
+### Hi👋 | AI Agents & Research-Driven Systems
 
 Building AI agents, intelligent workflows, and research-driven AI systems.
 
